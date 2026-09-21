@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bistro1-goteborg.vercel.app/sitemap.xml
